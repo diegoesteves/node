@@ -1,2 +1,2 @@
 # node
-node.js experiments
+node OLiAJavaHelper.js t1.txt t2.txt
